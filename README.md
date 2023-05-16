@@ -7,7 +7,7 @@ _____________________________
 
 ### Descrição dos arquivos:
 
-- O arquivo "AnalisesMicrodadosEnem" contém o código das análises feitas no Jupyter Notebook. Foi utilizada a linguagem Python, principalemte a biblioteca Pandas. Para os gráficos, foi utilizado Matplotlib;
+- O arquivo "AnalisesMicrodadosEnem" contém o código das análises feitas no Jupyter Notebook. Foi utilizada a linguagem Python, principalmente a biblioteca Pandas. Para os gráficos, foi utilizado Matplotlib;
 
 - O arquivo "notas2020_estadosIDHM" contém o dataframe criado para as análises que utilizaram o IDHM dos estados;
 
