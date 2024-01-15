@@ -1,8 +1,7 @@
 # Monografia_Enem
 Neste repositório se encontra o arquivo com o código das análises feitas no Jupyter Notebook, utilizado no meu Trabalho Final de Gradução, do Curso de Ciência da Computação da Universidade de Brasíla.
 
-Este arquivo será atualizado com o link para o trabalho assim que estiver disponível publicamente.
-
+Trabalho completo disponível em: https://bdm.unb.br/handle/10483/37001
 _____________________________
 
 ### Descrição dos arquivos:
@@ -17,6 +16,8 @@ _____________________________
 ______________________________
 
 ### Informações sobre a monografia:
+
+Disponível em: https://bdm.unb.br/handle/10483/37001
 
 Monografia apresentada como requisito parcial para conclusão do Bacharelado em Ciência da Computação.
 
